@@ -1,7 +1,7 @@
 Gaia
 ====
 
-Python library for ecological modelling.
+Python library for ecological modeling.
 
 According to Wikipedia:
 
@@ -16,40 +16,36 @@ According to Wikipedia:
 This software is an attempt to create a framework for ecological models.
 
 
-DISCLAIMER
+Disclaimer
 ----------
-
-This software may be used, copied, or redistributed as long as it is not sold 
-and this copyright notice is reproduced on each copy made. This routine is 
+This software may be used, copied, or redistributed as long as it is not sold
+and this copyright notice is reproduced on each copy made. This routine is
 provided as is without any express or implied warranties whatsoever.
 
 
-LICENSE
+License
 -------
-
 This software is licensed under a Creative Commons Attribution-ShareAlike 3.0
 Unported License. More information on this license can be obtained at
 http://creativecommons.org/licenses/by-sa/3.0/deed.en_US
 
 
-AUTHOR
+Author
 ------
+The library was created by Sebastian Krieger (sebastian.krieger@usp.br)
 
-The library was created by Sebastian Krieger (solutions@nublia.com)
 
-
-INSTALLATION
+Installation
 ------------
 
 
-TO-DO
+To do
 -----
 
 
-CONTRIBUTING
+Contributing
 ------------
-
-Do you want to contribute by improving code performance or increasing 
+Do you want to contribute by improving code performance or increasing
 capabilities? Great! Your help is very welcome. Give a look at the source code
 and share your contributions by
 
@@ -61,6 +57,6 @@ and share your contributions by
 6. Enjoy a refreshing lemonade and wait
 
 
-REVISION
+Revision
 --------
-    0 (2015-05-27 17:50 -0300)
+    1 (2017-02-22 14:21 -0300)
